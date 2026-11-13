@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="PaperTrail: Research, connected." width="720">
+  <img src="images/banner.svg" alt="PaperTrail: Research, connected." width="720">
 </p>
 
 <p align="center">

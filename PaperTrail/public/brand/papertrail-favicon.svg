@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="t d">
+  <title id="t">PaperTrail favicon</title>
+  <desc id="d">Simplified PaperTrail symbol for browser tabs.</desc>
+  <style>.p{stroke:#1f4d3a}.n{fill:#1f4d3a}.a{fill:#c4683f}@media (prefers-color-scheme:dark){.p{stroke:#f3eee2}.n{fill:#f3eee2}.a{fill:#e8936b}}</style>
+  <path class="p" d="M9 28V7h7.5a6.2 6.2 0 0 1 0 12.4H9" fill="none" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="n" cx="9" cy="7" r="3"/>
+  <circle class="n" cx="22.7" cy="13.2" r="3"/>
+  <circle class="a" cx="9" cy="27" r="3.8"/>
+</svg>
